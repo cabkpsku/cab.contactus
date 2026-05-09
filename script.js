@@ -1,6 +1,5 @@
 const API_URL = 'https://script.google.com/macros/s/AKfycbzvzYuOSCehYocD4e78FmPfJMbPX3_QhWKCqMdNEYlaOWeA9QWTILhW0LH-mYIRquth/exec';
 
-// ---------------------------------------------
 // 1. ฟังก์ชันส่งฟอร์ม (หน้า Index)
 // ---------------------------------------------
 async function submitContactForm(payload) {
