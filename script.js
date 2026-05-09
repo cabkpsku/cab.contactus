@@ -1,4 +1,4 @@
-const API_URL = 'https://script.google.com/macros/s/AKfycbz91cEIr7CDb0jFr6GQL1JzIXQpAXck3FuFU5NPcZsx3fPSdtlvLucrqmq_0Bys7NWD/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbzoZzQc6gYDDPl0N1ZyFzia7MNTSjBbzsvTaVNNEVq2pO_vgscDazq5PRPKdbcNfT0m/exec';
 
 // 1. ฟังก์ชันส่งฟอร์ม (หน้า Index)
 // ---------------------------------------------
